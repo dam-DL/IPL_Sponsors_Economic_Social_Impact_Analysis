@@ -91,11 +91,14 @@ Final business insights, policy suggestions, and ethical recommendations
 The following data sources were used:
 
 Dataset Name	Description
+
 fact_ipl_advertisers.xlsx	Brand-level advertiser data
 fact_ipl_central_contracts.xlsx	Official central sponsorship financials
 fact_revenue_demography.xlsx	Revenue split across sectors
 fact_summary_demography.xlsx	Detailed demographic segmentation
-External Research	Industry CAGR sources, company annual reports, media articles
+
+External Research	Industry CAGR sources, company annual reports, media articles -
+https://economictimes.indiatimes.com/industry/auto/tyres/ipl-sponsors-ceat-retains-ipl-strategic-timeout-partnership-for-rs-240-crore/articleshow/107940628.cms?from=mdr
 
 🧩 Metadata
 (Included in repo → meta_data.txt file)
